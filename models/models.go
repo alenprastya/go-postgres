@@ -6,7 +6,7 @@ import (
 	"go-postgres-crud/config"
 	"log"
 
-	_ "github.com/lib/pq" // postgres golang driver
+	_ "github.com/lib/pq" //
 )
 
 // Buku schema dari tabel Buku
